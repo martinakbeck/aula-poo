@@ -1,2 +1,2 @@
-# aula-poo
-Arquivos da aula de Programação Orientada a Objeto/2025
+*Programação Orientada a Objetos*
+<p>Repositório destinado para armazenar arquivos da disciplina de POO</p>
